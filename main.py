@@ -13,6 +13,7 @@ from tensorflow.keras.callbacks import EarlyStopping
 from tensorflow.keras.models import load_model
 sns.set_style('white')
 
+# Start
 
 dataFrame = pd.read_csv('lending_club_loan_two.csv')
 
